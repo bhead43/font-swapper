@@ -1,0 +1,12 @@
+{
+    "user": "",
+    "pass": "",
+    "apikey": "",
+    "environment": "",
+    "sandbox": false,
+    "startingDirectory": "",
+    "fonts": {
+        "swaps": [],
+        "ids": []
+    }
+}
