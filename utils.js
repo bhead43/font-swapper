@@ -1,4 +1,5 @@
 import { XMLParser, XMLBuilder } from "fast-xml-parser";
+import { resourceGetTreeLevel } from "./chili.js";
 
 export function jsonifyChiliResponse(response, namePrefix = "") {
     const fastXmlParser = new XMLParser({
